@@ -1,7 +1,7 @@
 Hi 👋 My name is Furkan Çevik
 =============================
 
-Jr. Java Developer
+Jr. Mobile App Developer
 ------------------
 
 I've been learning programming for 1 year. Now I am a student in the computer engineering department.
