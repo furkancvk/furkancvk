@@ -23,8 +23,8 @@ I've been learning programming for 1 year.I am a student in the computer enginee
 </p>
 
 ### Projects
--Basic ERP Mobile app / https://youtu.be/cUIE73fStfI
--Basic ERP Desktop app / https://youtu.be/PeQidE56mFg
+* Basic ERP Mobile app / https://youtu.be/cUIE73fStfI
+* Basic ERP Desktop app / https://youtu.be/PeQidE56mFg
 
 ### Socials
 
