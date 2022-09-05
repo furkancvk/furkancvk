@@ -7,7 +7,7 @@ Jr. Mobile App Developer
 I've been learning programming for 1 year.I am a student in the computer engineering department I am trying to improve my self day by day. Recently I toward my focus to mobile app development with flutter
 
 * 🌍  I'm based in Turkey
-* 🧠  I'm learning Java, Springboot, FLutter and Dart
+* 🧠  I'm learning Java, Springboot, Flutter and Dart
 * 🤝  I'm open to collaborating Mobile app projects 
 * ⚡  I love playing guitar
 
