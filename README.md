@@ -4,7 +4,7 @@ Hi 👋 My name is Furkan Çevik
 Jr. Mobile App Developer
 ------------------
 
-I've been learning programming for 1 year.I am a student in the computer engineering department I am trying to improve my self day by day. Recently I toward my focus to mobile app development with flutter
+I've been learning programming for 1 year.I am a student in the computer engineering department I am trying to improve my self day by day. Recently I toward my focus to mobile app development with Flutter and ReactNative
 
 * 🌍  I'm based in Turkey
 * 🧠  I'm learning Java, Springboot, Flutter and Dart, JavaScript, React-Native
