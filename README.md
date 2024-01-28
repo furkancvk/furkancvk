@@ -9,7 +9,7 @@ I've been learning programming for 1 year.I am a student in the computer enginee
 * 🌍  I'm based in Turkey
 * 🧠  I'm learning Java, TypeScript, Flutter and Dart, JavaScript, React-Native
 * 🤝  I'm open to collaborating on Mobile app projects 
-* ⚡  I love playing guitar
+
 
 ### Skills
 
@@ -32,3 +32,8 @@ I've been learning programming for 1 year.I am a student in the computer enginee
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/furkancvk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/furkan-çevik-58b796229/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkancvk&show_icons=true&locale=en" alt="furkancvk" /></p>
+
