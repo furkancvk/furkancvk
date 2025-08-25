@@ -7,7 +7,7 @@ Mobile App Developer
 With 2 years of hands-on experience in mobile app development, I'm continuously enhancing my skills as a third-year Computer Engineering student at Abdullah Gül University. I specialize in planning and developing creative mobile solutions using Flutter and React Native, with a strong emphasis on clean and reusable code principles inspired by Object-Oriented Programming (OOP). My passion for technology, combined with my design thinking and team communication skills, allows me to integrate seamlessly into team environments and contribute to the development of superior products and projects.
 
 * 🌍 Based in Kayseri, Turkey
-* 🎓 Bachelor’s Degree in Computer Engineering (Expected Graduation: 2025)
+* 🎓 Bachelor’s Degree in Computer Engineering (Expected Graduation: 2026)
 * 🧠 Continuously learning and improving my skills in Java, TypeScript, Flutter, Dart, JavaScript, and React Native
 * 🤝 Open to collaborating on innovative mobile app projects
 * 🌟 Passionate, creative, respectful, collaborative, solution-oriented, and a continuous learner
