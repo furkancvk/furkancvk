@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  I specialize in building responsive mobile applications and scalable backend systems.<br/>
+  I specialize in building responsive mobile & web applications and scalable backend systems.<br/>
   Experienced in <b>React Native, Python (FastAPI), and Next.js</b>.
 </p>
 
