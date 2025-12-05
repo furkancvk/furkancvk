@@ -17,7 +17,7 @@
 
 - 💻 I’m currently working on **Cross-platform Mobile Apps & Web Development & Backend**
 - 🎓 Senior Computer Engineering Student (Expected Graduation: 2026)
-- 🚀 Experience: Built a recipe app reaching **50,000+ users** (Tarifist)
+- 🚀 Experience: Built a recipe app reaching **50,000+ users** (Tarifist), 
 
 ---
 
@@ -59,11 +59,12 @@
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/furkan-çevik-58b796229/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:seninemailadresin@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+### Projects
+* Basic ERP Mobile app / https://youtu.be/cUIE73fStfI
+* Basic ERP Desktop app / https://youtu.be/PeQidE56mFg
+* Ski Rent Store Website / www.kartalkayakevi.com 
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/furkancvk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/furkan-çevik-58b796229/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
