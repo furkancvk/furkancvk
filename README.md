@@ -15,7 +15,7 @@
     <a href="https://www.github.com/furkancvk" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="mailto:your.email@gmail.com" target="_blank">
+    <a href="mailto:frkn.ceviik@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
@@ -28,11 +28,10 @@
 
 > I love turning complex ideas into clean, scalable systems and intuitive mobile experiences.
 
-- 🔭 Currently working on **Cross‑platform Mobile Apps & Backend Systems**
+- 🔭 Currently working on **Cross‑platform Mobile Apps & Backend Systems & Full-Stack Projects**
 - 🎓 **Senior Computer Engineering Student** (Expected Graduation: **2026**)
-- 🚀 **Milestone:** Built a recipe app that reached **50,000+ users** (**Tarifist**)
-- 💡 Interested in **System Architecture, Cloud Computing, and Performance Optimization**
-- 🧪 Enjoy experimenting with **new stacks, clean architectures, and CI/CD pipelines**
+- 💡 Interested in **System Architecture, Cloud Computing, and Linux**
+- 🧪 Enjoy experimenting with **new stacks, clean architectures**
 
 ---
 
@@ -72,7 +71,7 @@
 | **📱 Basic ERP Mobile** | React Native based **enterprise resource planning** mobile app. Designed for simplicity, modularity, and integration with backend services. | Tech: `React Native` `REST API` `State Management`<br/>▶️ [Watch Demo](https://youtu.be/cUIE73fStfI) |
 | **🖥 Basic ERP Desktop** | Desktop management system focused on **efficiency and usability** for business operations. | Tech: `Desktop UI` `CRUD` `Business Logic`<br/>▶️ [Watch Demo](https://youtu.be/PeQidE56mFg) |
 | **🎿 Kartal Kayakevi** | SEO‑optimized **multi‑language ski rental website** with a focus on performance and discoverability. | Tech: `Next.js` `SEO` `Multi‑Language`<br/>🌐 [Visit Site](http://www.kartalkayakevi.com) |
-| **🍽 Tarifist** *(Highlight)* | Recipe app reaching **50,000+ users**, focused on performance, UX, and scalability. | Tech: `Mobile` `Backend API` `Analytics`<br/>📈 Scale & growth oriented |
+| **🍽 Tarifist** | Recipe app reaching **50,000+ users**, focused on performance, UX, and scalability. | Tech: `Mobile` `Backend API` `Analytics`<br/>📈 Scale & growth oriented |
 
 ---
 
@@ -100,8 +99,8 @@
 
 - 💼 LinkedIn: [linkedin.com/in/furkan-çevik-58b796229](https://www.linkedin.com/in/furkan-çevik-58b796229/)
 - 💻 GitHub: [github.com/furkancvk](https://github.com/furkancvk)
-- 📩 Email: `your.email@gmail.com`
+- 📩 Email: `frkn.ceviik@gmail.com`
 
-> Open to **internships, freelance work, and collaboration** on mobile, full‑stack, or system design projects.
+> Open to **work, freelance work, and collaboration**
 
 <!-- Feel free to customize this section with more details about your work, blog posts, or pinned repositories. -->
