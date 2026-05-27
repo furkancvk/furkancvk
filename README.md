@@ -97,7 +97,7 @@
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: [linkedin.com/in/furkan-çevik-58b796229](https://www.linkedin.com/in/furkan-çevik-58b796229/)
+- 💼 LinkedIn: [linkedin.com/in/furkan-çevik-58b796229](https://www.linkedin.com/in/furkancvk)
 - 💻 GitHub: [github.com/furkancvk](https://github.com/furkancvk)
 - 📩 Email: `frkn.ceviik@gmail.com`
 
