@@ -67,7 +67,7 @@
 
 | Project | Description | Tech & Links |
 | :--- | :--- | :--- |
-| **📱 Basic ERP Mobile** | React Native based **enterprise resource planning** mobile app. Designed for simplicity, modularity, and integration with backend services. | Tech: `React Native` `REST API` `State Management`<br/>▶️ [Watch Demo](https://youtu.be/cUIE73fStfI) |
+| **📱 Basic ERP Mobile** | Flutter based **enterprise resource planning** mobile app. Designed for simplicity, modularity, and integration with backend services. | Tech: `Flutter` `REST API` `State Management`<br/>▶️ [Watch Demo](https://youtu.be/cUIE73fStfI) |
 | **🖥 Basic ERP Desktop** | Desktop management system focused on **efficiency and usability** for business operations. | Tech: `Desktop UI` `CRUD` `Business Logic`<br/>▶️ [Watch Demo](https://youtu.be/PeQidE56mFg) |
 | **🎿 Kartal Kayakevi** | SEO‑optimized **multi‑language ski rental website** with a focus on performance and discoverability. | Tech: `Next.js` `SEO` `Multi‑Language`<br/>🌐 [Visit Site](http://www.kartalkayakevi.com) |
 | **🍽 Tarifist** | Recipe app reaching **50,000+ users**, focused on performance, UX, and scalability. | Tech: `Mobile` `Backend API` `Analytics`<br/>📈 Scale & growth oriented |
