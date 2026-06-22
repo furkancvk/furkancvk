@@ -4,8 +4,8 @@
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Furkan+👋;Mobile+%26+Full+Stack+Developer;Building+Scalable+%26+Reliable+Systems" alt="Typing SVG" />
 
-  <h3>🎓 Computer Engineering Student @ Abdullah Gül University (AGU)</h3>
-  <h4>📱 Mobile & Web • 🧠 System Design</h4>
+  <h3>🎓 Computer Engineer</h3>
+  <h4>📱 FullStack Applications & DevOps • 🧠 System Design</h4>
 
   <!-- Socials -->
   <p>
@@ -28,9 +28,8 @@
 
 > I love turning complex ideas into clean, scalable systems and intuitive mobile experiences.
 
-- 🔭 Currently working on **Cross‑platform Mobile Apps & Backend Systems & Full-Stack Projects**
-- 🎓 **Senior Computer Engineering Student** (Expected Graduation: **2026**)
-- 💡 Interested in **System Architecture, Embedded Sytems, and Linux**
+- 🔭 Currently working on **DevOps & Backend Systems & Full-Stack Projects**
+- 💡 Interested in **System Architecture, DevOps and Linux**
 - 🧪 Enjoy experimenting with **new stacks, clean architectures**
 
 ---
