@@ -2,10 +2,10 @@
 <div align="center">
   
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Furkan+👋;Mobile+%26+Full+Stack+Developer;Building+Scalable+%26+Reliable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Furkan+👋;DevOps+%26+Infrastructure+Engineer;Building+Scalable+%26+Reliable+Systems;Linux+%7C+Docker+%7C+CI%2FCD+%7C+Observability" alt="Typing SVG" />
 
   <h3>🎓 Computer Engineer</h3>
-  <h4>📱 FullStack Applications & DevOps • 🧠 System Design</h4>
+  <h4>🐧 Linux • 📦 Docker • 📊 Observability • ⚡ CI/CD</h4>
 
   <!-- Socials -->
   <p>
@@ -26,11 +26,11 @@
 
 ## ⚡ About Me
 
-> I love turning complex ideas into clean, scalable systems and intuitive mobile experiences.
+> DevOps & Infrastructure Engineer passionate about building resilient infrastructure, optimizing deployment pipelines, and observability.
 
-- 🔭 Currently working on **DevOps & Backend Systems & Full-Stack Projects**
-- 💡 Interested in **System Architecture, DevOps and Linux**
-- 🧪 Enjoy experimenting with **new stacks, clean architectures**
+- 🔭 Focusing on **DevOps, Linux Systems Administration & Infrastructure Automation**
+- 🛠 Experienced in **Virtualization (Proxmox VE), Containerization (Docker), and Log/Metric Analytics (Grafana & Loki)**
+- 💡 Background in **Full-Stack & Mobile Development**, enabling seamless developer-to-operations collaboration.
 
 ---
 
@@ -38,39 +38,45 @@
 
 <div align="center">
 
-### 👨‍💻 Languages  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+### ☁️ Infrastructure, DevOps & Observability  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-### 📱 Mobile & Frontend  
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-### 🧩 Backend, Databases & Tools  
+### 🗄️ Backend & Databases  
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+### 📱 Full-Stack & Mobile Background  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Infrastructure & Open Source Projects
 
-> A few projects that represent how I design and build systems end‑to‑end.
-
-| Project | Description | Tech & Links |
+| Project | Description | Key Tech / Highlights |
 | :--- | :--- | :--- |
-| **📱 Basic ERP Mobile** | Flutter based **enterprise resource planning** mobile app. Designed for simplicity, modularity, and integration with backend services. | Tech: `Flutter` `REST API` `State Management`<br/>▶️ [Watch Demo](https://youtu.be/cUIE73fStfI) |
-| **🖥 Basic ERP Desktop** | Desktop management system focused on **efficiency and usability** for business operations. | Tech: `Desktop UI` `CRUD` `Business Logic`<br/>▶️ [Watch Demo](https://youtu.be/PeQidE56mFg) |
-| **🎿 Kartal Kayakevi** | SEO‑optimized **multi‑language ski rental website** with a focus on performance and discoverability. | Tech: `Next.js` `SEO` `Multi‑Language`<br/>🌐 [Visit Site](http://www.kartalkayakevi.com) |
-| **🍽 Tarifist** | Recipe app reaching **50,000+ users**, focused on performance, UX, and scalability. | Tech: `Mobile` `Backend API` `Analytics`<br/>📈 Scale & growth oriented |
+| ⚡ **EcoPulse** | **Real-Time Energy & Infrastructure Monitoring Platform.** Built to track server infrastructure metrics, log management, and system status dashboards. | `Python` `Docker` `Grafana` `PostgreSQL` `Next.js`|
+
+---
+
+## 🔒 Commercial & Client Projects
+
+| Project | Role & Scope | Metrics & Impact |
+| :--- | :--- | :--- |
+| **📱 Enterprise ERP System** | Full-stack & mobile architecture design for business resource planning (Desktop & Mobile). | Multi-platform, modular architecture, REST APIs |
+| **🍽 Tarifist** | Mobile application backend and system architecture. | Scaled to **50,000+ active users**, high availability focus |
+| **🎿 Kartal Kayakevi** | Multi-language web application deployment and SEO optimization. | Performance, high discoverability, live production site |
 
 ---
 
@@ -86,20 +92,12 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=furkancvk&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 
-  <!-- Trophies -->
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=furkancvk&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
 </div>
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: [linkedin.com/in/furkan-çevik-58b796229](https://www.linkedin.com/in/furkancvk)
-- 💻 GitHub: [github.com/furkancvk](https://github.com/furkancvk)
-- 📩 Email: `frkn.ceviik@gmail.com`
-
-> Open to **work, freelance work, and collaboration**
-
-<!-- Feel free to customize this section with more details about your work, blog posts, or pinned repositories. -->
+- 💼 **LinkedIn:** [linkedin.com/in/furkan-çevik-58b796229](https://www.linkedin.com/in/furkan-çevik-58b796229/)
+- 💻 **GitHub:** [github.com/furkancvk](https://github.com/furkancvk)
+- 📩 **Email:** `frkn.ceviik@gmail.com`
