@@ -4,7 +4,7 @@
   <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+There!+I'm+Furkan+👋;AI+%26+Full-Stack+Engineer;Applied+AI+%7C+Full-Stack+%7C+Linux+%26+DevOps" alt="Typing SVG" />
 
-  <h3>🎓 Computer Engineerin Graduate</h3>
+  <h3>🎓 Computer Engineering Graduate</h3>
   <h4>🧠 Applied AI • 💻 Full-Stack Development • 🐧 Linux</h4>
 
   <!-- Socials -->
