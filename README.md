@@ -64,7 +64,7 @@
 
 ---
 
-## 🚀 Featured Infrastructure & Open Source Projects
+## 🚀 Thesis Project
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
